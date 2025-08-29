@@ -1,1 +1,1 @@
-"Hi"
+Date: 8.29.25 - Git: What I learned today was how to make a remote and a local repo. It was good to learn how to do and use the terminal more. I also installed a virtual environment and started using vim.
