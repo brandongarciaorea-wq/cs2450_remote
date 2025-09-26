@@ -4,4 +4,6 @@ Date: 9.5.25 - Today I decided to not use the virual environment and forced inst
 
 Date 9.11.25: This week we learned about user stories and their usefulness when it comes to planning. We each made 5 user stories as well as assigned a priotity number to them. This was useful to be able to see the idea of our website come to life more. 
 
-Date 9.19.25: This week I learned about merging with git and how to deal with merge conflicts. We also talked about coding algorithms and how they are used by watching a youtube video. We also learned about diagrams and I decided to start reading the book the professor mentioned in the slides. 
+Date 9.19.25: This week I learned about merging with git and how to deal with merge conflicts. We also talked about coding algorithms and how they are used by watching a youtube video. We also learned about diagrams and I decided to start reading the book the professor mentioned in the slides.
+
+Date 9.26.25: This week I learned about presentations and some tips to make them better. We have to pitch our project to the professor next week with our presentation. I learned that text, size, color, shapes, and even context is all important when it comes to presenting. I also learned about Design Youtube and how the system works when a customer uploads their video to the cloud. 
