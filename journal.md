@@ -15,4 +15,5 @@ Date 10.08.25: This week we learned about what it is actually like working as a 
 Date 10.17.25: This week in class we had lab time to work on our project. The most important thing I learned this week and that we talked about was ethics. We talked and learned about ethical problems in the software development world. We talked about the trolley problem, and we played a game that had to due with the trolley problem as well. I also watched a video about AI and its kinda scary decision to act on a human. Overall it brought unthought of things to my attention and I will keep them in mind in the future.
 
 Date 10.24.25: This week in class we talked about the importance of unit testing. We then got to work with selenium and got to make our own unit tests for our project. I learned how to write unit test and got to make them for the login screen of our website. Another thing I learned this week at school was about classes and structs in C++. 
- 
+
+Date 10.31.25: This week in class we learned about refactoring code. I got to practice doing so on some example code. It helped me learn how to not add more features, but make them more readable/efficient. We also got lab time for working on our project. One last thing we learned about was User Experience and how to make it better.  
