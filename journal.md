@@ -16,4 +16,6 @@ Date 10.17.25: This week in class we had lab time to work on our project. The mo
 
 Date 10.24.25: This week in class we talked about the importance of unit testing. We then got to work with selenium and got to make our own unit tests for our project. I learned how to write unit test and got to make them for the login screen of our website. Another thing I learned this week at school was about classes and structs in C++. 
 
-Date 10.31.25: This week in class we learned about refactoring code. I got to practice doing so on some example code. It helped me learn how to not add more features, but make them more readable/efficient. We also got lab time for working on our project. One last thing we learned about was User Experience and how to make it better.  
+Date 10.31.25: This week in class we learned about refactoring code. I got to practice doing so on some example code. It helped me learn how to not add more features, but make them more readable/efficient. We also got lab time for working on our project. One last thing we learned about was User Experience and how to make it better. 
+
+Date 11.7.25: This week we learned about Development Pipeline Automation. This is how to tests our code in git hub, we used our selenium tests we made to do this. We put it into our git hub actions so that it will run all our tests when we push to main. We also learned about other testing methods. 
