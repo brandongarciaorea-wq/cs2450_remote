@@ -18,4 +18,6 @@ Date 10.24.25: This week in class we talked about the importance of unit testing
 
 Date 10.31.25: This week in class we learned about refactoring code. I got to practice doing so on some example code. It helped me learn how to not add more features, but make them more readable/efficient. We also got lab time for working on our project. One last thing we learned about was User Experience and how to make it better. 
 
-Date 11.7.25: This week we learned about Development Pipeline Automation. This is how to tests our code in git hub, we used our selenium tests we made to do this. We put it into our git hub actions so that it will run all our tests when we push to main. We also learned about other testing methods. 
+Date 11.7.25: This week we learned about Development Pipeline Automation. This is how to tests our code in git hub, we used our selenium tests we made to do this. We put it into our git hub actions so that it will run all our tests when we push to main. We also learned about other testing methods.
+
+Date 11.14.25: This week in class we learned about how to deploy our project onto a website. We used containerization by using Docker to make a copy of our youface.py. By doing this our project could now be deployed anywhere that Docker is running without needing to download anything from our actual code. We also learned about the world's first computer programmer named Ada Lovlace who programmed before computers using paper.  
